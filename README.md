@@ -169,7 +169,7 @@ you may have noticed.)
 - [ ] Use `git commit` to commit the changes.
 - [ ] Use `git log` to verify that your last commit worked.
 
-You can use the [git cheatsheet](./git-commands) at any time.
+You can use the [git cheatsheet](./git-commands.md) at any time.
 
 ## Git Best Practices
 
