@@ -12,8 +12,11 @@ Git is an essential tool for developers. It's widely used in the world of open s
 - Commit new and modified files to a git repository.
 
 ## Why Git
+### Self Study
 
 Version control is important for developers. We need to store our code safely and track changes as we make them. If we introduce a feature that breaks our application, we want to be able to revert back to a working state.
+
+Start with watching [this video](https://www.youtube.com/watch?v=DqtZUvmPmo4) to understand the importance of version control.
 
 
 ![why git](https://www.git-tower.com/learn/media/pages/git/ebook/en/desktop-gui/basics/what-is-version-control/5bcefb6718-1682408980/what-is-vcs.png)
