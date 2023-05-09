@@ -94,10 +94,12 @@ To unstage the file, use `git reset <filename>`.
 Also, let's delete the last thing we wrote in `sad-tale.md`.
 
 ## Removing: Deleting Staged Files
+### Bonus Topic
 
 Let's practice removing files after they have been staged.
 
 ### Using The Bash `rm` Command
+### Bonus Topic
 
 1. Inside the `<your-name>s-game-of-gits` directory, create a file called `the-stark-bunch.md`.
 
@@ -120,6 +122,7 @@ What do you see? The addition of `the-stark-bunch.md` is still staged as a `new 
 7. Run `git reset -- the-stark-bunch.md`.
 
 ### Using The `git rm` Command
+### Bonus Topic
 
 1. Inside the `<your-name>s-game-of-gits` directory, create a file called `the-stark-bunch.md`.
 
@@ -192,6 +195,9 @@ Here are some best practices to follow when using Git:
 
 Following these best practices will help you maintain a clean and organized Git workflow.
 
+## Exercises
+
+Play the [Git Branching Game](https://learngitbranching.js.org/) to practice branching.
 
 
 
