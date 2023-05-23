@@ -25,7 +25,7 @@ Start with watching [this video](https://www.youtube.com/watch?v=DqtZUvmPmo4) to
 
 Let's initialize a local repository.
 
-1. In your `studies` repository, reate a new directory named `<your-name>s-game-of-gits` inside your `~/sei/trainings` directory.
+1. In your `studies` repository, create a new directory named `<your-name>s-game-of-gits` inside your `~/sei/trainings` directory.
 
 2. Inside the `<your-name>s-game-of-gits` directory, create a file named `sad-tale.md`.
 
